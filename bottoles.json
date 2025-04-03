@@ -1,0 +1,154 @@
+[
+    {
+      "id": 1,
+      "name": "Reusable Water Bottle",
+      "material": "Stainless Steel",
+      "capacity_ml": 750,
+      "color": "Blue",
+      "brand": "EcoHydro",
+      "price": 15.99,
+      "image": "https://example.com/images/reusable_water_bottle.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Glass Water Bottle",
+      "material": "Glass",
+      "capacity_ml": 500,
+      "color": "Transparent",
+      "brand": "PureGlass",
+      "price": 12.49,
+      "image": "https://example.com/images/glass_water_bottle.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Plastic Sports Bottle",
+      "material": "BPA-Free Plastic",
+      "capacity_ml": 1000,
+      "color": "Red",
+      "brand": "SportFlow",
+      "price": 9.99,
+      "image": "https://example.com/images/plastic_sports_bottle.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Insulated Water Bottle",
+      "material": "Stainless Steel",
+      "capacity_ml": 600,
+      "color": "Black",
+      "brand": "ThermoMax",
+      "price": 18.75,
+      "image": "https://example.com/images/insulated_water_bottle.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Collapsible Silicone Bottle",
+      "material": "Silicone",
+      "capacity_ml": 550,
+      "color": "Green",
+      "brand": "FlexiSip",
+      "price": 14.29,
+      "image": "https://example.com/images/collapsible_silicone_bottle.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Aluminum Hiking Bottle",
+      "material": "Aluminum",
+      "capacity_ml": 800,
+      "color": "Silver",
+      "brand": "TrailQuench",
+      "price": 16.49,
+      "image": "https://example.com/images/aluminum_hiking_bottle.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Smart Hydration Bottle",
+      "material": "Stainless Steel",
+      "capacity_ml": 700,
+      "color": "White",
+      "brand": "HydroSmart",
+      "price": 39.99,
+      "features": ["Temperature Display", "Bluetooth Tracking"],
+      "image": "https://example.com/images/smart_hydration_bottle.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Eco-Friendly Bamboo Bottle",
+      "material": "Bamboo & Stainless Steel",
+      "capacity_ml": 600,
+      "color": "Natural",
+      "brand": "GreenSip",
+      "price": 22.99,
+      "image": "https://example.com/images/eco_friendly_bamboo_bottle.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Foldable Travel Bottle",
+      "material": "Silicone",
+      "capacity_ml": 500,
+      "color": "Purple",
+      "brand": "PackLite",
+      "price": 13.75,
+      "image": "https://example.com/images/foldable_travel_bottle.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Copper Ayurvedic Bottle",
+      "material": "Copper",
+      "capacity_ml": 900,
+      "color": "Copper",
+      "brand": "AyurPure",
+      "price": 25.49,
+      "image": "https://example.com/images/copper_ayurvedic_bottle.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Gym Water Jug",
+      "material": "BPA-Free Plastic",
+      "capacity_ml": 2200,
+      "color": "Black",
+      "brand": "MaxHydrate",
+      "price": 19.99,
+      "image": "https://example.com/images/gym_water_jug.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Titanium Adventure Bottle",
+      "material": "Titanium",
+      "capacity_ml": 750,
+      "color": "Grey",
+      "brand": "TitanFlow",
+      "price": 45.99,
+      "image": "https://example.com/images/titanium_adventure_bottle.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Kids Water Bottle",
+      "material": "BPA-Free Plastic",
+      "capacity_ml": 400,
+      "color": "Pink",
+      "brand": "KidSip",
+      "price": 8.99,
+      "image": "https://example.com/images/kids_water_bottle.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Ceramic Infused Bottle",
+      "material": "Ceramic & Stainless Steel",
+      "capacity_ml": 650,
+      "color": "Beige",
+      "brand": "PureCeram",
+      "price": 28.49,
+      "image": "https://example.com/images/ceramic_infused_bottle.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Ultra-Light Hiking Bottle",
+      "material": "Aluminum",
+      "capacity_ml": 900,
+      "color": "Blue",
+      "brand": "SummitFlow",
+      "price": 17.99,
+      "image": "https://example.com/images/ultra_light_hiking_bottle.jpg"
+    }
+  ]
+  
